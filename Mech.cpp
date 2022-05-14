@@ -21,7 +21,7 @@ int main()
     POINT P;
     std::cout << "Monitor - " << Weight<< "/" << Height << std::endl;
     Sleep(60000);
-    for(int i = 0;; i++)
+    for(int i = 1;; i++)
     {
         
         //system("cls");
